@@ -1,1 +1,1 @@
-# cv-iti-24
+# Computer Vision Course for ITI - Summer 2024
